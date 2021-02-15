@@ -2,7 +2,7 @@
 
 ### 1. RealTime     
 🔎 실시간 검색어 확인하기   
-> RealTime ReadMe 바로가기 [Link](https://github.com/baexxbin/CodeLion/blob/master/RealTime/Realtime.md, "realtime link")   
+> RealTime ReadMe 바로가기 [Link](https://github.com/baexxbin/CodeLion/blob/master/RealTime/Realtime.md)   
 
   
 ### 2. Weather        
