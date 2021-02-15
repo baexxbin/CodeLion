@@ -44,3 +44,20 @@
 >   ```
 
 
+`
+`
+### requeste 모듈 import 하기 (with Anaconda)
+1. cmd 창에서 파이썬이 설치된 파일로 이동    
+2. 'pip install requests' 로 requests모듈 import하기    
+
+**아나콘다의 파이썬을 이용하는 경우**         
+```
+'conda install -c anaconda requests'      
+```
+
+
+
+ _!환경변수에 파이썬이 등록되어있는지도 꼭 확인하기!_
+
+
+
