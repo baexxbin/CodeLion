@@ -14,3 +14,4 @@
 
 ### 4. SendMail        
 📧 메일보내기
+> SendMail 바로가기 [Link](https://github.com/baexxbin/CodeLion/blob/master/SendMail/sendmail.md)
